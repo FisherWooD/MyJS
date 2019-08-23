@@ -1,3 +1,8 @@
+var bs_pinButtonURL = "https://2.bp.blogspot.com/-zCa3BHwhaHs/XWBht8eCTxI/AAAAAAAAiu8/9IrFkVTuIY0hEJeaDerUXkgyQFiSBwpKQCLcBGAs/s1600/pinsave_x50.png";
+var bs_pinButtonPos = "topleft";
+var bs_pinPrefix = "";
+var bs_pinSuffix = "";
+
 jQuery(document)['ready'](function (_0x8b11x1) {
     _0x8b11x1('body')['append']('<img style="visibility:hidden;" class="pinimgload" src="' + bs_pinButtonURL + '" >');
     _0x8b11x1('#bs_pinOnHover')['hide']();
